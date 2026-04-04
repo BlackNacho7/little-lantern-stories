@@ -21,7 +21,7 @@ const storyFiles: Story[] = [
     slug: "the-brave-little-lantern",
     title: "The Brave Little Lantern",
     coverImage:
-      "https://images.unsplash.com/photo-1519378058369-7b2cb4e76f?w=800&q=80",
+      "https://images.unsplash.com/photo-1508614999368-9260051292e5?w=800&q=80",
     ageRange: "4–6",
     themes: ["courage", "emotions"],
     readTime: "5 min",

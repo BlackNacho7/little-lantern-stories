@@ -186,7 +186,7 @@ export default function HomepageContent() {
         </div>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {stories.map((story) => (
-            <StoryCard key={story.slug} story={story as any} />
+            <StoryCard key={story.slug} story={story} />
           ))}
         </div>
         <div className="mt-8 text-center sm:hidden">

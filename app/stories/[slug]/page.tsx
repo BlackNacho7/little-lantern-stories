@@ -1,5 +1,3 @@
-"use client";
-
 import Link from "next/link";
 import Image from "next/image";
 import Navigation from "@/app/components/Navigation";
@@ -22,24 +20,38 @@ const themeLabels: Record<string, string> = {
   identity: "🎨 Identity",
 };
 
-export default function StoryPage({ params }: { params: { slug: string } }) {
-  const story = getStoryBySlug(params.slug);
+export async function generateStaticParams() {
+  const stories = getStories();
+  return stories.map((s) => ({ slug: s.slug }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const story = getStoryBySlug(slug);
+  if (!story) return { title: "Story Not Found" };
+  return {
+    title: `${story.title} | Little Lantern Stories`,
+    description: story.description,
+  };
+}
+
+export default async function StoryPage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const story = getStoryBySlug(slug);
   if (!story) {
     return (
       <div className="min-h-screen bg-background flex items-center justify-center">
         <div className="text-center">
           <span className="text-6xl block mb-4">🔍</span>
           <h1 className="font-heading text-2xl font-bold text-textPrimary mb-2">Story Not Found</h1>
-          <Link href="/stories" className="text-primary font-semibold hover:underline">
-            Browse all stories
-          </Link>
+          <Link href="/stories" className="text-primary font-semibold hover:underline">Browse all stories</Link>
         </div>
       </div>
     );
   }
 
   const allStories = getStories();
-  const currentIndex = allStories.findIndex((s) => s.slug === params.slug);
+  const currentIndex = allStories.findIndex((s) => s.slug === slug);
   const prevStory = currentIndex > 0 ? allStories[currentIndex - 1] : null;
   const nextStory = currentIndex < allStories.length - 1 ? allStories[currentIndex + 1] : null;
 
@@ -74,7 +86,7 @@ export default function StoryPage({ params }: { params: { slug: string } }) {
           <h1 className="font-heading text-3xl sm:text-4xl lg:text-5xl font-bold text-textPrimary leading-tight mb-4">
             {story.title}
           </h1>
-          <div className="flex items-center gap-4 text-sm text-textSecondary">
+          <div className="flex flex-wrap items-center gap-3 text-sm text-textSecondary">
             <span className="flex items-center gap-1.5 bg-surface px-3 py-1.5 rounded-full">
               <span>👶</span> Ages {story.ageRange}
             </span>
@@ -160,9 +172,7 @@ export default function StoryPage({ params }: { params: { slug: string } }) {
         {/* Discussion Questions */}
         {story.discussionQuestions && story.discussionQuestions.length > 0 && (
           <section className="mb-10 animate-fade-up">
-            <h2 className="font-heading text-xl font-bold text-textPrimary mb-4">
-              💬 Discussion Questions
-            </h2>
+            <h2 className="font-heading text-xl font-bold text-textPrimary mb-4">💬 Discussion Questions</h2>
             <p className="text-sm text-textSecondary mb-4">Read together, then talk about these questions:</p>
             <DiscussionQuestions questions={story.discussionQuestions} />
           </section>
@@ -171,9 +181,7 @@ export default function StoryPage({ params }: { params: { slug: string } }) {
         {/* Vocabulary */}
         {story.vocabulary && story.vocabulary.length > 0 && (
           <section className="mb-10 animate-fade-up">
-            <h2 className="font-heading text-xl font-bold text-textPrimary mb-4">
-              📖 New Words
-            </h2>
+            <h2 className="font-heading text-xl font-bold text-textPrimary mb-4">📖 New Words</h2>
             <p className="text-sm text-textSecondary mb-4">Talk about these words before reading again:</p>
             <VocabularyList words={story.vocabulary} />
           </section>

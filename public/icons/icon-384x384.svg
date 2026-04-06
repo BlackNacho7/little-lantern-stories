@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8A87C"/>
+      <stop offset="100%" style="stop-color:#C38D9E"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="100" fill="url(#bg)"/>
+  <!-- Lantern body -->
+  <path d="M200 180 L200 380 Q200 420 256 420 Q312 420 312 380 L312 180 Q312 140 256 140 Q200 140 200 180Z" fill="#FFF8F0" opacity="0.95"/>
+  <!-- Lantern handle -->
+  <path d="M220 140 Q220 100 256 100 Q292 100 292 140" fill="none" stroke="#FFF8F0" stroke-width="16" stroke-linecap="round"/>
+  <!-- Lantern top cap -->
+  <rect x="190" y="170" width="132" height="20" rx="6" fill="#FFF8F0" opacity="0.9"/>
+  <!-- Lantern bottom cap -->
+  <rect x="190" y="395" width="132" height="20" rx="6" fill="#FFF8F0" opacity="0.9"/>
+  <!-- Inner glow -->
+  <ellipse cx="256" cy="280" rx="35" ry="35" fill="#FFE4B5" opacity="0.8"/>
+  <!-- Star on lantern -->
+  <polygon points="256,250 265,275 292,275 270,292 280,318 256,302 232,318 242,292 220,275 247,275" fill="#E8A87C" opacity="0.9"/>
+</svg>

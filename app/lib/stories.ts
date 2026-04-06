@@ -19,8 +19,15 @@ export interface Story {
 // --- Notion CMS ---
 // Set NOTION_TOKEN and NOTION_DATABASE_ID env vars to pull stories from Notion.
 // Stories from Notion will override local stories when configured.
+export function getStories(): Story[] {
+  return localStories;
+}
 
-export const localStories: Story[] = [
+export function getStoryBySlug(slug: string): Story | undefined {
+  return localStories.find((s) => s.slug === slug);
+}
+
+export const localStories = [
   {
     slug: "bennys-cozy-bed",
     title: "Benny's Cozy Bed",
@@ -814,4 +821,4 @@ And so our adventure comes to an end. But every end is just another beginning! U
     printables: [{'title': 'Color the Two Houses', 'type': 'coloring', 'url': '/printables/two-houses-coloring.pdf'}, {'title': 'Draw Your Life in Two Pictures', 'type': 'activity', 'url': '/printables/my-two-homes.pdf'}],
     songs: [{'title': 'Two Houses Lullaby', 'lyrics': "Two houses, one heart, / Trying so hard to belong. / I'm learning that love doesn't mean / Pretending nothing's wrong. / Two houses, one heart, / And the truth will set me free. / I don't have to be okay — / Just honest, just real, just me."}],
   },
-]
+] as Story[]

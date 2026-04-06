@@ -8,11 +8,26 @@
   }
 
   body {
-    @apply bg-background font-body text-textPrimary antialiased;
+    @apply bg-background dark:bg-dark-background font-body text-textPrimary dark:text-dark-textPrimary antialiased;
+  }
+
+  /* Dark mode overrides */
+  .dark {
+    --color-primary: #E8A87C;
+    --color-secondary: #85B8CB;
+    --color-accent: #C38D9E;
+    --color-background: #0f172a;
+    --color-surface: #1e293b;
+    --color-textPrimary: #f1f5f9;
+    --color-textSecondary: #94a3b8;
   }
 
   ::selection {
     @apply bg-primary/30;
+  }
+
+  .dark ::selection {
+    background-color: rgba(232, 168, 124, 0.4);
   }
 
   /* Custom scrollbar */
@@ -23,8 +38,14 @@
   ::-webkit-scrollbar-track {
     @apply bg-background;
   }
+  .dark ::-webkit-scrollbar-track {
+    @apply bg-dark-background;
+  }
   ::-webkit-scrollbar-thumb {
     @apply bg-primary/40 rounded-full;
+  }
+  .dark ::-webkit-scrollbar-thumb {
+    background-color: rgba(232, 168, 124, 0.4);
   }
   ::-webkit-scrollbar-thumb:hover {
     @apply bg-primary/60;

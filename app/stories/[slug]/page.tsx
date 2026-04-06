@@ -163,7 +163,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
 
           {/* Audio Player */}
           <div className="mb-10 animate-fade-up stagger-2">
-            <AudioPlayer />
+            <AudioPlayer storyContent={story.content} />
           </div>
 
           {/* Story Content */}

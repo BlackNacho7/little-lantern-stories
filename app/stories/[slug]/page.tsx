@@ -230,11 +230,6 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             </section>
           )}
 
-          {/* Story Quiz */}
-          <section className="mb-10 animate-fade-up">
-            <StoryQuiz story={story} />
-          </section>
-
           {/* Vocabulary */}
           {story.vocabulary && story.vocabulary.length > 0 && (
             <section className="mb-10 animate-fade-up">
@@ -250,6 +245,11 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               <ParentTipsBox tips={story.parentTips} />
             </section>
           )}
+
+          {/* Story Quiz */}
+          <section className="mb-10 animate-fade-up">
+            <StoryQuiz story={story} />
+          </section>
 
           {/* Related Stories */}
           <RelatedStories

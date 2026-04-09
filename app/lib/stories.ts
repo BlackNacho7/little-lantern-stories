@@ -849,4 +849,319 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     songs: [{'title': 'Two Houses Lullaby', 'lyrics': "Two houses, one heart, / Trying so hard to belong. / I'm learning that love doesn't mean / Pretending nothing's wrong. / Two houses, one heart, / And the truth will set me free. / I don't have to be okay — / Just honest, just real, just me."}],
   },
+,
+
+  {    slug:"the-dragon-who-learned-to-share",
+    title: "The Dragon Who Learned to Share",
+    coverImage: "https://picsum.photos/seed/dragon-share/800/600",
+    ageRange: "3–5",
+    level: 2,
+    themes: ["kindness", "sharing"],
+    readTime: "4 min",
+    description: "Ember the dragon has a beautiful collection of shiny gems — and he doesn't want to share a single one. But when a friend loses something precious, Ember discovers that sharing doesn't mean losing.",
+    content: `Welcome, little dreamers! I'm so happy you're here with me tonight. Are you ready for a cozy story about a dragon?
+
+This is a story about Ember. Ember was a dragon with bright orange scales and eyes that shimmered like emeralds.
+
+Ember lived in a cave on the side of a mountain. And Ember had the most beautiful collection of gems in the entire world. Rubies red like strawberries. Sapphires blue like the sky. Emeralds green like leaves.
+
+Ember loved his gems. He looked at them every single day.
+
+One day, Fox came to visit. Fox had a problem.
+
+"Ember," Fox said, "my little fox cub lost her favorite star. It fell into the deep part of the forest. Can I borrow your glowing gem to help me find it?"
+
+Ember's heart went tight. "But... my gems..."
+
+Fox waited quietly.
+
+Ember looked at his gems. Then he looked at Fox. Then he looked at his gems again.
+
+Ember took a deep breath. He picked up the glowing green gem — the one that glowed the brightest.
+
+"Here," Ember said softly. "Bring it back safely."
+
+Fox smiled. "I will. Thank you, Ember."
+
+Fox went into the forest. The glowing gem lit up the dark trees. And there, tucked between two roots, Fox found the little star.
+
+Fox brought the gem back. And Ember realized: the gem was still his. Nothing was gone. But something had been gained — a warm feeling inside, like a hug from the inside.
+
+"You shared," Fox said. "That was brave."
+
+And Ember learned: sharing doesn't mean losing. It means your heart gets bigger.
+
+And so our story comes to an end. But every end is just another beginning! Until next time, little dreamers, keep imagining, keep dreaming, and always be kind. Sweet dreams. 🌙`,
+    discussionQuestions: [
+      "Why didn't Ember want to share his gems at first?",
+      "What happened when Ember let Fox borrow the star?",
+      "How did sharing make Ember feel?",
+      "Do you have something special you're learning to share?",
+    ],
+    vocabulary: [
+      { word: "precious", definition: "very special and important to you", sentence: "The glowing gem was Ember's most precious treasure." },
+      { word: "generous", definition: "happy to give and share with others", sentence: "Ember felt warm and generous inside after sharing." },
+      { word: "shimmer", definition: "to shine with a soft, flickering light", sentence: "The gems shimmered like tiny rainbows." },
+    ],
+    parentTips: "This story helps toddlers understand that sharing doesn't mean losing. After reading, ask your child about a time they shared something. Emphasize how sharing often leads to feeling good, not empty.",
+    printables: [
+      { title: "Dragon's Gem Maze", type: "activity", url: "/printables/the-dragon-who-learned-to-share/maze.png" },
+      { title: "Trace: Friendly Dragon", type: "activity", url: "/printables/the-dragon-who-learned-to-share/tracing.svg" },
+      { title: "Word Hunt: Sharing", type: "activity", url: "/printables/the-dragon-who-learned-to-share/wordsearch.png" },
+    ],
+    songs: [
+      { title: "The Sharing Dragon Song", lyrics: "Ember had gems, shiny and bright, / But sharing gems made his heart feel light! / One for you, and one for me, / The best things grow when they're set free!" },
+    ],
+  },,
+
+  {    slug:"the-turtle-who-wanted-to-run",
+    title: "The Turtle Who Wanted to Run",
+    coverImage: "https://picsum.photos/seed/turtle-fast/800/600",
+    ageRange: "3–5",
+    level: 2,
+    themes: ["patience", "self-acceptance"],
+    readTime: "4 min",
+    description: "Shelly the turtle watches rabbits racing around and wishes she could run too. But when a race comes to the meadow, Shelly discovers that slow and steady can win in unexpected ways.",
+    content: `Welcome, little dreamers! I'm so happy you're here with me tonight. Are you ready for a wonderful story?
+
+This is a story about Shelly. Shelly was a little turtle with a big green shell and four small, wiggly feet.
+
+Shelly lived by the meadow. Every day, she watched the rabbits run. They zoomed and zipped and raced around.
+
+Shelly wished she could run too. She tried to wiggle her little legs faster.
+
+Zip! Zip! Zip!
+
+But Shelly was a turtle. And turtles go slow.
+
+One day, the animals decided to have a race. From the old oak tree to the big rock by the pond.
+
+"Ready, set, GO!" shouted Rabbit.
+
+All the animals ran. Except Shelly. She started walking. Slow and steady.
+
+The rabbits zoomed ahead. The squirrels scurried past. Even the beetles ran faster than Shelly.
+
+But Shelly kept going. Slow and steady. Step by step.
+
+She passed the tired rabbits, who had sprinted too fast and were resting in the shade. She passed the squirrels, who had taken a wrong turn.
+
+And when Shelly reached the big rock by the pond — she was the first one there!
+
+"What?!" cried Rabbit. "But you were so slow!"
+
+"I wasn't fast," Shelly said. "But I was steady."
+
+And Shelly learned: being yourself — slow, steady, and patient — is exactly right. You don't have to be fast to finish. You just have to keep going.
+
+And so our story comes to an end. But every end is just another beginning! Until next time, little dreamers, keep imagining, keep dreaming, and always be kind. Sweet dreams. 🌙`,
+    discussionQuestions: [
+      "Why did Shelly wish she could run fast?",
+      "What happened in the race that surprised everyone?",
+      "Is there something about yourself you've learned to accept?",
+    ],
+    vocabulary: [
+      { word: "steady", definition: "slow and consistent, not rushing", sentence: "Shelly kept going, slow and steady, all the way to the finish." },
+      { word: "patient", definition: "able to wait calmly without getting upset", sentence: "Shelly was patient as she watched the rabbits zoom past." },
+      { word: "accept", definition: "to be okay with who you are, just as you are", sentence: "Shelly learned to accept herself, shell and all." },
+    ],
+    parentTips: "This story celebrates differences and self-acceptance. Ask your child: 'What makes YOU special that not everyone has?' Use it to discuss how being different is a strength.",
+    printables: [
+      { title: "Turtle Trail Maze", type: "activity", url: "/printables/the-turtle-who-wanted-to-run/maze.png" },
+      { title: "Connect: Shelly the Turtle", type: "activity", url: "/printables/the-turtle-who-wanted-to-run/dot2dot.png" },
+      { title: "Word Hunt: Slow & Steady", type: "activity", url: "/printables/the-turtle-who-wanted-to-run/wordsearch.png" },
+    ],
+    songs: [
+      { title: "Slow and Steady Song", lyrics: "Slow and steady, watch me go! / Turtle shells are slow but strong, you know! / I may be slow, but I won't stop — / Patient and happy, reach the top!" },
+    ],
+  },,
+
+  {    slug:"the-little-rain-cloud",
+    title: "The Little Rain Cloud",
+    coverImage: "https://picsum.photos/seed/rain-cloud/800/600",
+    ageRange: "2–4",
+    level: 1,
+    themes: ["kindness", "nature"],
+    readTime: "3 min",
+    description: "Puddle is a little rain cloud who only wants to make flowers grow. But sometimes she's too shy to let the rain fall — until she sees a wilting garden that needs her help.",
+    content: `Welcome, little dreamer! I'm so happy you're here with me tonight. Are you ready for a gentle, rainy story?
+
+This is a story about Puddle. Puddle was a little rain cloud — soft and gray and fluffy.
+
+Puddle floated high above the meadow. She could make it rain. That was her job.
+
+But Puddle was shy. She didn't want to make it rain. What if the animals got wet? What if they were mad at her?
+
+So Puddle held her rain inside. She floated and floated, gray and quiet.
+
+One day, Puddle looked down. There was a little garden — a sad little garden with droopy flowers.
+
+"Oh no," Puddle whispered. "The flowers need water. They need me."
+
+Puddle felt her raindrops quiver inside her.
+
+She was nervous. But the flowers were so sad.
+
+Puddle flew down, down, down. She hovered over the garden.
+
+And she let the rain fall. Just a little. Pinkle, pinkle on the petals.
+
+The flowers lifted their heads. They opened their petals. They drank the rain.
+
+And the garden turned from droopy to beautiful. Bright colors everywhere!
+
+The animals below looked up. "Thank you, little cloud!" they called.
+
+And Puddle smiled. She wasn't so shy after all. Sometimes being a little nervous and doing it anyway is called being brave.
+
+And so our story comes to an end. But every end is just another beginning! Until next time, little dreamers, keep imagining, keep dreaming, and always be kind. Sweet dreams. 🌙`,
+    discussionQuestions: [
+      "Why was Puddle afraid to let the rain fall?",
+      "What happened to the flowers when Puddle helped?",
+      "Do you ever feel shy about doing something that might help others?",
+    ],
+    vocabulary: [
+      { word: "wilting", definition: "drooping and getting weak because it needs water", sentence: "The flowers were wilting without any rain." },
+      { word: "shy", definition: "nervous or afraid to do something in front of others", sentence: "Puddle was shy about letting her rain fall." },
+      { word: "quiver", definition: "to shake slightly, like a leaf in the wind", sentence: "Puddle felt her raindrops quiver inside her." },
+    ],
+    parentTips: "This story is about overcoming shyness to help others. After reading, ask: 'What makes you want to help?' Talk about how being a little nervous and doing something anyway is a form of courage.",
+    printables: [
+      { title: "Cloud Maze: Find the Garden", type: "activity", url: "/printables/the-little-rain-cloud/maze.png" },
+      { title: "Connect: Puddle the Cloud", type: "activity", url: "/printables/the-little-rain-cloud/dot2dot.png" },
+      { title: "Word Hunt: Rain & Flowers", type: "activity", url: "/printables/the-little-rain-cloud/wordsearch.png" },
+    ],
+    songs: [
+      { title: "The Little Rain Cloud Song", lyrics: "Puddle was a little cloud, so shy and soft and gray, / She didn't want to make it rain, she didn't want to spray! / But flowers needed water, so she shook from side to side, / And out came drops of kindness — the best rainbows I have spied!" },
+    ],
+  },,
+
+  {    slug:"olivers-first-day-of-school",
+    title: "Oliver's First Day of School",
+    coverImage: "https://picsum.photos/seed/first-day-school/800/600",
+    ageRange: "4–6",
+    level: 3,
+    themes: ["courage", "friendship"],
+    readTime: "4 min",
+    description: "Oliver the bear cub is nervous about his first day of school. But with a small courage trick from Mama Bear, he walks in — and discovers that new places aren't so scary when you give them a try.",
+    content: `Welcome, little dreamers! I'm so happy you're here with me tonight. Are you ready for a story about being brave?
+
+This is a story about Oliver. Oliver was a little bear cub with soft brown fur and the biggest eyes you ever saw.
+
+Tomorrow was Oliver's first day of school.
+
+Oliver was nervous. What if no one wanted to play with him? What if the teacher was mean? What if the classroom was scary?
+
+"I don't want to go," Oliver whispered to Mama Bear.
+
+Mama Bear sat down next to him. She had a wise, warm smile.
+
+"Oliver," she said, "being nervous means you're about to do something brave. That's a good sign."
+
+"Really?" Oliver asked.
+
+"Really. Here's a little trick. When you feel nervous, count to three. One, two, three. Then take a big breath. And say to yourself: 'I am brave, I am curious, and I can try.'"
+
+Oliver tried it right there. One, two, three. A big breath. "I am brave. I am curious. And I can try."
+
+He felt a little spark inside.
+
+The next morning, Oliver walked to school. His feet felt wobbly. His tummy felt fluttery.
+
+At the door, he stopped. He thought of Mama Bear's trick.
+
+One, two, three. A big breath. "I am brave. I am curious. And I can try."
+
+Oliver walked through the door.
+
+And you know what? It wasn't scary at all. The classroom was warm and bright. The teacher smiled. And a little raccoon named Rosie waved at him.
+
+"Hi!" she said. "Want to play?"
+
+Oliver smiled. He had been brave. And it had worked.
+
+And so our story comes to an end. But every end is just another beginning! Until next time, little dreamers, keep imagining, keep dreaming, and always be kind. Sweet dreams. 🌙`,
+    discussionQuestions: [
+      "What was Oliver nervous about?",
+      "What trick did Mama Bear teach him?",
+      "What do you do when you feel nervous about something new?",
+    ],
+    vocabulary: [
+      { word: "nervous", definition: "feeling worried or uneasy about something", sentence: "Oliver felt nervous about walking into the classroom." },
+      { word: "courage", definition: "doing something brave even when you feel scared", sentence: "Oliver found his courage and walked through the door." },
+      { word: "curious", definition: "wanting to know and learn about new things", sentence: "Oliver was curious about all the fun things at school." },
+    ],
+    parentTips: "First-day jitters are real for parents too! This story gives kids a 'trick' — count to three, take a breath, and try. Practice it before school starts so it's familiar.",
+    printables: [
+      { title: "School Day Maze", type: "activity", url: "/printables/olivers-first-day-of-school/maze.png" },
+      { title: "Trace: Oliver the Bear Cub", type: "activity", url: "/printables/olivers-first-day-of-school/tracing.svg" },
+      { title: "Word Hunt: School Friends", type: "activity", url: "/printables/olivers-first-day-of-school/wordsearch.png" },
+    ],
+    songs: [
+      { title: "The Brave Cub Song", lyrics: "One, two, three — I take a breath! / New things aren't scary, I can do this yet! / I may feel nervous, I may feel shy, / But courage helps me try, try, try!" },
+    ],
+  },,
+
+  {    slug:"the-magic-of-a-kind-word",
+    title: "The Magic of a Kind Word",
+    coverImage: "https://picsum.photos/seed/kindness-magic/800/600",
+    ageRange: "4–7",
+    level: 3,
+    themes: ["kindness", "friendship"],
+    readTime: "4 min",
+    description: "Lily the fawn learns that one kind word can change someone's entire day. When she accidentally says something hurtful, she discovers that the fastest way to fix a mistake is to be brave enough to apologize.",
+    content: `Welcome, little dreamers! I'm so happy you're here with me tonight. Are you ready for a story about the magic of words?
+
+This is a story about Lily. Lily was a little fawn with spots like starlight and gentle brown eyes.
+
+Lily loved to play in the meadow. She had lots of friends. But Lily was still learning to think before she spoke.
+
+One morning, Lily was jumping over rocks with Bunny. Bunny stumbled and fell.
+
+"Oops! Sorry!" Bunny said, getting up.
+
+Lily laughed. But not in a kind way. "You fall like a笨笨 bear!" she giggled.
+
+Bunny's ears went flat. She didn't say anything. She just walked away.
+
+That afternoon, Lily noticed Bunny sitting alone under the oak tree. She looked sad.
+
+Lily thought about her words. And then she felt a heavy stone in her tummy.
+
+She hadn't meant to hurt Bunny. But she had.
+
+Lily walked over slowly. She sat next to Bunny.
+
+"Bunny," Lily said quietly. "I'm really sorry. What I said was not kind. You're not clumsy. You're graceful and brave. I shouldn't have laughed."
+
+Bunny looked up. Her eyes were wet.
+
+"Thank you for saying that," Bunny whispered. "That made me feel better."
+
+And Lily learned: kind words feel like magic. And when we say something that hurts, a real apology — a brave, honest one — can heal it.
+
+One kind word can change someone's whole day. And one honest sorry can heal a friendship.
+
+And so our story comes to an end. But every end is just another beginning! Until next time, little dreamers, keep imagining, keep dreaming, and always be kind. Sweet dreams. 🌙`,
+    discussionQuestions: [
+      "What happened when Lily said something unkind without thinking?",
+      "How did Bunny's day change after Lily's apology?",
+      "What is something kind you could say to someone today?",
+    ],
+    vocabulary: [
+      { word: "kind", definition: "being nice, gentle, and caring toward others", sentence: "Lily chose to say something kind to Bunny." },
+      { word: "apology", definition: "saying sorry and meaning it", sentence: "Lily's apology made Bunny feel much better." },
+      { word: "magic", definition: "something that feels like a wonderful surprise", sentence: "One kind word can feel like magic." },
+    ],
+    parentTips: "This story teaches repair after relational mistakes. For kids this age, model your own apologies when YOU make mistakes — it shows that apologies are powerful, not shameful.",
+    printables: [
+      { title: "Kind Words Maze", type: "activity", url: "/printables/the-magic-of-a-kind-word/maze.png" },
+      { title: "Connect: Lily the Fawn", type: "activity", url: "/printables/the-magic-of-a-kind-word/dot2dot.png" },
+      { title: "Word Hunt: Kindness", type: "activity", url: "/printables/the-magic-of-a-kind-word/wordsearch.png" },
+    ],
+    songs: [
+      { title: "The Magic Word Song", lyrics: "A kind word can heal a heart, / A sorry can make things right! / When we mess up, we say we're sorry, / And turn the dim to bright, so bright!" },
+    ],
+  },
+
 ] as Story[]

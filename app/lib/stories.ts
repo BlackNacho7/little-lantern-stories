@@ -28,10 +28,9 @@ export function getStoryBySlug(slug: string): Story | undefined {
 }
 
 export const localStories = [
-  {
-    slug: "bennys-cozy-bed",
+  {    slug:"bennys-cozy-bed",
     title: "Benny's Cozy Bed",
-    coverImage: "https://picsum.photos/seed/cozy-bed-blanket/800/600",
+    coverImage: "/images/bennys-cozy-bed.webp",
     ageRange: "2–3",
     level: 1,
     themes: [],
@@ -110,10 +109,9 @@ And so, sweet little dreamer, it's time for you to sleep too. Close your eyes. F
       { title: "The Cozy Bed Song", lyrics: "Pull up the blanket, warm and tight, / Close your eyes and say goodnight! / Safe and sound and cozy too, / The best things happen when we're through!" },
     ],
   },
-  {
-    slug: "wheres-my-family",
+  {    slug:"wheres-my-family",
     title: "Where's My Family?",
-    coverImage: "https://picsum.photos/seed/bunny-family-meadow/800/600",
+    coverImage: "/images/wheres-my-family.webp",
     ageRange: "2–3",
     level: 1,
     themes: ["family", "friendship"],
@@ -180,10 +178,9 @@ And so our story comes to an end. But you know what? Little Rabbit is safe. And 
       { title: "The Family Finds Each Other Song", lyrics: "Families find each other, no matter where you've been, / Through the woods and over streams, again and again! / You've got people who love you, people who care, / And they'll always, always find you there!" },
     ],
   },
-  {
-    slug: "ollies-noisy-morning",
+  {    slug:"ollies-noisy-morning",
     title: "Ollie's Noisy Morning",
-    coverImage: "https://picsum.photos/seed/duckling-puddle-morning/800/600",
+    coverImage: "/images/ollies-noisy-morning.webp",
     ageRange: "2–3",
     level: 1,
     themes: ["imagination"],
@@ -234,10 +231,9 @@ And so our story comes to an end. What sounds do YOU hear in the morning? Splash
       { title: "The Morning Sounds Song", lyrics: "Splash in the water, cool and bright! / Quack quack quack, morning light! / Crunchy breakfast, jump and play! / Morning sounds start every day!" },
     ],
   },
-  {
-    slug: "the-curious-kitten",
+  {    slug:"the-curious-kitten",
     title: "The Curious Kitten",
-    coverImage: "https://picsum.photos/seed/curious-kitten-window/800/600",
+    coverImage: "/images/the-curious-kitten.webp",
     ageRange: "3–4",
     level: 2,
     themes: ["curiosity", "courage"],
@@ -306,10 +302,9 @@ And so our story comes to an end. What sounds do YOU hear at night? Sweet dreams
       { title: "The Curious Kitten Song", lyrics: "Why, why, why — I want to know! / Why does the river softly flow? / Why does the cricket sing all day? / Curiosity lights the way!" },
     ],
   },
-  {
-    slug: "the-sleepy-star",
+  {    slug:"the-sleepy-star",
     title: "The Sleepy Star",
-    coverImage: "https://picsum.photos/seed/sleepy-star/800/600",
+    coverImage: "/images/the-sleepy-star.webp",
     ageRange: "2–3",
     level: 1,
     themes: ["emotions"],
@@ -373,10 +368,9 @@ Sweet dreams, little star. 🌙✨`,
       { title: "The Sleepy Star Song", lyrics: "Twinkle, twinkle, little star, / Rest your glow, it won't go far! / When you're tired, close your eyes, / Sweet dreams come as a gentle surprise!" },
     ],
   },
-  {
-    slug: "the-grumpy-garden",
+  {    slug:"the-grumpy-garden",
     title: "The Grumpy Garden",
-    coverImage: "https://picsum.photos/seed/garden-flowers/800/600",
+    coverImage: "/images/the-grumpy-garden.webp",
     ageRange: "3–4",
     level: 2,
     themes: ["friendship", "courage"],
@@ -450,10 +444,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
       { title: "The Garden Song", lyrics: "Dig in the dirt, plant a seed! / Water it well and watch it grow! / Some days are gray, some days are bright, / But love makes everything right!" },
     ],
   },
-  {
-    slug: "marina-makes-a-friend",
+  {    slug:"marina-makes-a-friend",
     title: "Marina Makes a Friend",
-    coverImage: "https://picsum.photos/seed/shy-girl-garden/800/600",
+    coverImage: "/images/marina-makes-a-friend.webp",
     ageRange: "3–4",
     level: 2,
     themes: ["friendship", "imagination", "courage"],
@@ -529,10 +522,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
       { title: "The Tiny Seed Song", lyrics: "One tiny seed, so small and round, / Plant it in the ground! / Water it with care, / Sunlight in the air! / Watch it grow and grow and grow, / Watch it bloom and steal the show!" },
     ],
   },
-  {
-    slug: "a-home-for-millie",
+  {    slug:"a-home-for-millie",
     title: "A Home for Millie",
-    coverImage: "https://picsum.photos/seed/finding-home-cozy/800/600",
+    coverImage: "/images/a-home-for-millie.webp",
     ageRange: "3–4",
     level: 2,
     themes: ["family", "friendship", "imagination"],
@@ -610,10 +602,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
       { title: "The Millie's Home Song", lyrics: "I'm looking, looking, high and low, / For a place where I can go! / But I know, and I believe, / There's a perfect spot for me! / Cozy, warm, and just my size, / Where my soul and heart lies!" },
     ],
   },
-  {
-    slug: "the-little-cloud-who-was-shy",
+  {    slug:"the-little-cloud-who-was-shy",
     title: "The Little Cloud Who Was Shy",
-    coverImage: "https://picsum.photos/seed/shy-cloud-sky/800/600",
+    coverImage: "/images/the-little-cloud-who-was-shy.webp",
     ageRange: "3–6",
     level: 2,
     themes: ["emotions", "courage"],
@@ -643,10 +634,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 ,
 
-  {
-    slug: "the-star-keepers-daughter",
+  {    slug:"the-star-keepers-daughter",
     title: "The Star Keeper's Daughter",
-    coverImage: "https://picsum.photos/seed/star-telescope-night/800/600",
+    coverImage: "/images/the-star-keepers-daughter.webp",
     ageRange: "4–6",
     level: 3,
     themes: ["courage", "family"],
@@ -676,10 +666,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 ,
 
-  {
-    slug: "sams-big-jump",
+  {    slug:"sams-big-jump",
     title: "Sam's Big Jump",
-    coverImage: "https://picsum.photos/seed/swimming-pool-kid/800/600",
+    coverImage: "/images/sams-big-jump.webp",
     ageRange: "4-6",
     level: 3,
     themes: ["courage", "family", "friendship"],
@@ -709,10 +698,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 ,
 
-  {
-    slug: "the-mystery-of-the-missing-song",
+  {    slug:"the-mystery-of-the-missing-song",
     title: "The Mystery of the Missing Song",
-    coverImage: "https://picsum.photos/seed/singing-bird-forest/800/600",
+    coverImage: "/images/the-mystery-of-the-missing-song.webp",
     ageRange: "6-8",
     level: 4,
     themes: ['family', 'emotions'],
@@ -728,10 +716,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 ,
 
-  {
-    slug: "the-wrong-side-of-the-river",
+  {    slug:"the-wrong-side-of-the-river",
     title: "The Wrong Side of the River",
-    coverImage: "https://picsum.photos/seed/river-village-opposite/800/600",
+    coverImage: "/images/the-wrong-side-of-the-river.webp",
     ageRange: "6-8",
     level: 4,
     themes: ['courage', 'friendship'],
@@ -747,10 +734,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 
 
-  {
-    slug: "lunas-big-adventure",
+  {    slug:"lunas-big-adventure",
     title: "Luna's Big Adventure",
-    coverImage: "https://picsum.photos/seed/luna-nightsky/800/600",
+    coverImage: "/images/lunas-big-adventure.webp",
     ageRange: "4-6",
     level: 3,
     themes: ['courage', 'curiosity', 'friendship'],
@@ -766,10 +752,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 
 
-  {
-    slug: "the-talking-tree",
+  {    slug:"the-talking-tree",
     title: "The Talking Tree",
-    coverImage: "https://picsum.photos/seed/tree-forest-magical/800/600",
+    coverImage: "/images/the-talking-tree.webp",
     ageRange: "4-6",
     level: 3,
     themes: ['friendship', 'nature', 'family'],
@@ -785,10 +770,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 
 
-  {
-    slug: "the-merchants-empty-box",
+  {    slug:"the-merchants-empty-box",
     title: "The Merchant's Empty Box",
-    coverImage: "https://picsum.photos/seed/market-square-old-town/800/600",
+    coverImage: "/images/the-merchants-empty-box.webp",
     ageRange: "8-10",
     level: 5,
     themes: ['courage'],
@@ -804,10 +788,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
   },
 
 
-  {
-    slug: "two-houses-one-heart",
+  {    slug:"two-houses-one-heart",
     title: "Two Houses, One Heart",
-    coverImage: "https://picsum.photos/seed/two-houses-different-colors/800/600",
+    coverImage: "/images/two-houses-one-heart.webp",
     ageRange: "8-10",
     level: 5,
     themes: ['family', 'emotions'],

@@ -102,8 +102,10 @@ And so, sweet little dreamer, it's time for you to sleep too. Close your eyes. F
     ],
     parentTips: "This is a perfect bedtime story for the youngest listeners. Focus on the repetitive, soothing language. The repetition of 'warm, warm, warm' and 'safe, safe, safe' helps young children feel the comfort of routine. Ask your child what makes THEM feel safe at bedtime.",
     printables: [
-      { title: "Color Benny the Bear", type: "coloring", url: "/printables/benny-bear-coloring.pdf" },
-      { title: "Draw Your Cozy Bed", type: "activity", url: "/printables/my-cozy-bed.pdf" },
+      { title: "Benny's Maze Adventure", type: "activity", url: "/printables/bennys-cozy-bed/maze.png" },
+      { title: "Connect: Benny the Bear", type: "activity", url: "/printables/bennys-cozy-bed/dot2dot.png" },
+      { title: "Word Hunt: Benny's World", type: "activity", url: "/printables/bennys-cozy-bed/wordsearch.png" },
+      { title: "Trace: Benny the Bear", type: "activity", url: "/printables/bennys-cozy-bed/tracing.svg" },
     ],
     songs: [
       { title: "The Cozy Bed Song", lyrics: "Pull up the blanket, warm and tight, / Close your eyes and say goodnight! / Safe and sound and cozy too, / The best things happen when we're through!" },
@@ -171,8 +173,10 @@ And so our story comes to an end. But you know what? Little Rabbit is safe. And 
     ],
     parentTips: "This story touches on separation anxiety — a very real concern for young children. The reassuring ending ('families always find each other') provides comfort. Read it when your child might be nervous about being away from you. Ask: 'Who is YOUR family?'",
     printables: [
-      { title: "Color Little Rabbit's Family", type: "coloring", url: "/printables/little-rabbit-family-coloring.pdf" },
-      { title: "Draw Your Family", type: "activity", url: "/printables/my-family.pdf" },
+      { title: "Where's My Family? Maze", type: "activity", url: "/printables/wheres-my-family/maze.png" },
+      { title: "Connect: The Animal Family", type: "activity", url: "/printables/wheres-my-family/dot2dot.png" },
+      { title: "Word Hunt: Animal Families", type: "activity", url: "/printables/wheres-my-family/wordsearch.png" },
+      { title: "Trace: Animal Outlines", type: "activity", url: "/printables/wheres-my-family/tracing.svg" },
     ],
     songs: [
       { title: "The Family Finds Each Other Song", lyrics: "Families find each other, no matter where you've been, / Through the woods and over streams, again and again! / You've got people who love you, people who care, / And they'll always, always find you there!" },
@@ -224,8 +228,10 @@ And so our story comes to an end. What sounds do YOU hear in the morning? Splash
     ],
     parentTips: "This story celebrates morning routines. The onomatopoeia (splash, quack, crunch) makes it fun to read aloud. After reading, walk through YOUR morning routine. Routines give children a sense of security and control.",
     printables: [
-      { title: "Color Ollie the Duckling", type: "coloring", url: "/printables/ollie-duck-coloring.pdf" },
-      { title: "Morning Sounds Matching", type: "activity", url: "/printables/morning-sounds.pdf" },
+      { title: "Ollie's Morning Maze", type: "activity", url: "/printables/ollies-noisy-morning/maze.png" },
+      { title: "Connect: Morning Sounds", type: "activity", url: "/printables/ollies-noisy-morning/dot2dot.png" },
+      { title: "Word Hunt: Morning Sounds", type: "activity", url: "/printables/ollies-noisy-morning/wordsearch.png" },
+      { title: "Trace: Ollie the Owl", type: "activity", url: "/printables/ollies-noisy-morning/tracing.svg" },
     ],
     songs: [
       { title: "The Morning Sounds Song", lyrics: "Splash in the water, cool and bright! / Quack quack quack, morning light! / Crunchy breakfast, jump and play! / Morning sounds start every day!" },
@@ -295,8 +301,10 @@ And so our story comes to an end. What sounds do YOU hear at night? Sweet dreams
     ],
     parentTips: "This story celebrates curiosity without giving all the answers. For very curious children, this story validates that asking questions is a wonderful thing. After reading, ask: 'What are YOU curious about?'",
     printables: [
-      { title: "Color Curious Whiskers", type: "coloring", url: "/printables/whiskers-coloring.pdf" },
-      { title: "Draw Something You're Curious About", type: "activity", url: "/printables/my-curiosity.pdf" },
+      { title: "Kitten's Garden Maze", type: "activity", url: "/printables/the-curious-kitten/maze.png" },
+      { title: "Connect: Maple the Kitten", type: "activity", url: "/printables/the-curious-kitten/dot2dot.png" },
+      { title: "Word Hunt: Curious Cat", type: "activity", url: "/printables/the-curious-kitten/wordsearch.png" },
+      { title: "Trace: Maple the Kitten", type: "activity", url: "/printables/the-curious-kitten/tracing.svg" },
     ],
     songs: [
       { title: "The Curious Kitten Song", lyrics: "Why, why, why — I want to know! / Why does the river softly flow? / Why does the cricket sing all day? / Curiosity lights the way!" },
@@ -361,8 +369,10 @@ Sweet dreams, little star. 🌙✨`,
     ],
     parentTips: "This story is perfect for bedtime or when your child is overtired and fighting sleep. Talk about how rest helps us — just like Twinkle glowed brighter after resting, we feel better after sleep. Ask: 'How do you feel after a good night's rest?'",
     printables: [
-      { title: "Color Twinkle the Star", type: "coloring", url: "/printables/twinkle-star-coloring.pdf" },
-      { title: "Cloud Shapes Maze", type: "activity", url: "/printables/cloud-maze.pdf" },
+      { title: "Star Maze: Twinkle Trail", type: "activity", url: "/printables/the-sleepy-star/maze.png" },
+      { title: "Connect: A Starry Night", type: "activity", url: "/printables/the-sleepy-star/dot2dot.png" },
+      { title: "Word Hunt: Sleepy Stars", type: "activity", url: "/printables/the-sleepy-star/wordsearch.png" },
+      { title: "Trace: A Friendly Star", type: "activity", url: "/printables/the-sleepy-star/tracing.svg" },
     ],
     songs: [
       { title: "The Sleepy Star Song", lyrics: "Twinkle, twinkle, little star, / Rest your glow, it won't go far! / When you're tired, close your eyes, / Sweet dreams come as a gentle surprise!" },
@@ -437,8 +447,10 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story helps children understand that adults get grumpy too — and that sometimes the best thing isn't advice, but just presence. After reading, ask: 'What did Mia do that helped Oliver feel better?' This story is great for teaching empathy — Mia didn't try to fix Oliver, she just stayed.",
     printables: [
-      { title: "Color Oliver's Garden", type: "coloring", url: "/printables/oliver-garden-coloring.pdf" },
-      { title: "Garden Word Search", type: "activity", url: "/printables/garden-wordsearch.pdf" },
+      { title: "Garden Maze: Find the Flowers", type: "activity", url: "/printables/the-grumpy-garden/maze.png" },
+      { title: "Trace: Garden Friends", type: "activity", url: "/printables/the-grumpy-garden/tracing.svg" },
+      { title: "Word Hunt: Garden Growing", type: "activity", url: "/printables/the-grumpy-garden/wordsearch.png" },
+      { title: "Connect: Garden Characters", type: "activity", url: "/printables/the-grumpy-garden/dot2dot.png" },
     ],
     songs: [
       { title: "The Garden Song", lyrics: "Dig in the dirt, plant a seed! / Water it well and watch it grow! / Some days are gray, some days are bright, / But love makes everything right!" },
@@ -515,8 +527,10 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story validates quiet and shy children while also gently encouraging connection. Ask your child: 'What makes you feel brave when you're meeting new people?' For quiet children, focus on the message that they don't have to change who they are.",
     printables: [
-      { title: "Color Marina and the Sunflower", type: "coloring", url: "/printables/marina-sunflower-coloring.pdf" },
-      { title: "Plant a Seed Activity", type: "activity", url: "/printables/plant-seed-activity.pdf" },
+      { title: "Marina's Ocean Maze", type: "activity", url: "/printables/marina-makes-a-friend/maze.png" },
+      { title: "Connect: Marina's World", type: "activity", url: "/printables/marina-makes-a-friend/dot2dot.png" },
+      { title: "Word Hunt: Ocean Friends", type: "activity", url: "/printables/marina-makes-a-friend/wordsearch.png" },
+      { title: "Trace: Marina and Friends", type: "activity", url: "/printables/marina-makes-a-friend/tracing.svg" },
     ],
     songs: [
       { title: "The Tiny Seed Song", lyrics: "One tiny seed, so small and round, / Plant it in the ground! / Water it with care, / Sunlight in the air! / Watch it grow and grow and grow, / Watch it bloom and steal the show!" },
@@ -595,8 +609,10 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story is wonderful for children who have moved, changed schools, or are struggling to fit in. It teaches that belonging isn't about being exactly like everyone else — it's about finding the place that's right for YOU. After reading, talk about how every person has a place where they belong.",
     printables: [
-      { title: "Color Millie the Moth", type: "coloring", url: "/printables/millie-moth-coloring.pdf" },
-      { title: "Draw Your Home Activity", type: "activity", url: "/printables/draw-your-home.pdf" },
+      { title: "Home Finder Maze", type: "activity", url: "/printables/a-home-for-millie/maze.png" },
+      { title: "Connect: Millie's Journey", type: "activity", url: "/printables/a-home-for-millie/dot2dot.png" },
+      { title: "Word Hunt: Homes & Hearts", type: "activity", url: "/printables/a-home-for-millie/wordsearch.png" },
+      { title: "Trace: Millie the Mouse", type: "activity", url: "/printables/a-home-for-millie/tracing.svg" },
     ],
     songs: [
       { title: "The Millie's Home Song", lyrics: "I'm looking, looking, high and low, / For a place where I can go! / But I know, and I believe, / There's a perfect spot for me! / Cozy, warm, and just my size, / Where my soul and heart lies!" },
@@ -625,8 +641,10 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story is a gentle celebration of quiet, introverted children — showing that being small and shy doesn't mean you can't make a big difference. After reading, talk about how different people have different strengths. Remind your child that it's okay to be quiet and gentle — those are beautiful traits, not weaknesses.",
     printables: [
-      { title: "Color Cumulus the Little Cloud", type: "coloring", url: "/printables/little-cloud-coloring.pdf" },
-      { title: "Cloud Shape Matching", type: "activity", url: "/printables/cloud-matching.pdf" },
+      { title: "Cloud Maze: Float to Friends", type: "activity", url: "/printables/the-little-cloud-who-was-shy/maze.png" },
+      { title: "Connect: Cloud Shapes", type: "activity", url: "/printables/the-little-cloud-who-was-shy/dot2dot.png" },
+      { title: "Word Hunt: Sky & Cloud", type: "activity", url: "/printables/the-little-cloud-who-was-shy/wordsearch.png" },
+      { title: "Trace: Little Cloud", type: "activity", url: "/printables/the-little-cloud-who-was-shy/tracing.svg" },
     ],
     songs: [
       { title: "The Little Cloud Song", lyrics: "I'm just a little cloud, so small and shy, / But when the flowers need me, I know why! / I'll rain so gently, drop by drop, / Quiet kindness never stops!" },
@@ -657,8 +675,10 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story explores the motivation to prove yourself and be recognized — a common theme for children this age. Talk about a time your child felt they were ready for something new but had to wait. Ask: 'How did it feel when you finally got to try it?' The story also introduces the idea that sometimes the people we admire (like parents or older siblings) need our help too.",
     printables: [
-      { title: "Color Jess and the Star Tower", type: "coloring", url: "/printables/star-keeper-coloring.pdf" },
-      { title: "Draw Your Own Constellation", type: "activity", url: "/printables/my-constellation.pdf" },
+      { title: "Star Keeper's Star Maze", type: "activity", url: "/printables/the-star-keepers-daughter/maze.png" },
+      { title: "Connect: Star Keeper's Sky", type: "activity", url: "/printables/the-star-keepers-daughter/dot2dot.png" },
+      { title: "Word Hunt: Starlight", type: "activity", url: "/printables/the-star-keepers-daughter/wordsearch.png" },
+      { title: "Trace: A Magical Star", type: "activity", url: "/printables/the-star-keepers-daughter/tracing.svg" },
     ],
     songs: [
       { title: "The Star Keeper's Song", lyrics: "Step by step, I'm climbing high, / To catch a star in the dark night sky! / Courage will light the way for me, / The best things in life are never free!" },
@@ -689,8 +709,9 @@ And so our adventure comes to an end. But every end is just another beginning! U
     ],
     parentTips: "This story is about the difference between being brave and being fearless — an important distinction for this age group. Ask your child: 'What is the bravest thing you have ever done?' Talk about how courage is not the absence of fear, but action despite fear. This is a great story for building resilience.",
     printables: [
-      { title: "Color Sam in the Pool", type: "coloring", url: "/printables/sam-swimming-coloring.pdf" },
-      { title: "Swimming Badge Reward", type: "activity", url: "/printables/swimming-badge.pdf" },
+      { title: "Sam's Jump Maze", type: "activity", url: "/printables/sams-big-jump/maze.png" },
+      { title: "Connect: Sam's Adventure", type: "activity", url: "/printables/sams-big-jump/dot2dot.png" },
+      { title: "Word Hunt: Brave Jumps", type: "activity", url: "/printables/sams-big-jump/wordsearch.png" },
     ],
     songs: [
       { title: "The Brave Swimmer Song", lyrics: "Splash! I jump into the deep! / My heart goes thump, but I'm still in the swim! / Courage is doing it anyway, / I found my strength in the water today!" },
@@ -711,7 +732,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ["Why did Mira keep searching even though everyone told her the bird was just 'gone'?", "Old Nora said the bird's heart gave out. What do you think she meant by that?", "How is Mira's story about loss different from losing something small vs. losing someone you love deeply?", 'What do you think the song meant to Mira? What did it mean to the bird?'],
     vocabulary: [{'word': 'mystery', 'definition': "something that hasn't been explained yet — you have to use clues to figure it out", 'sentence': 'The missing song was a mystery that Mira was determined to solve.'}, {'word': 'grief', 'definition': 'the deep sadness you feel when something or someone you love is gone', 'sentence': 'Mira felt grief when she realized the bird would never sing again.'}, {'word': 'determine', 'definition': 'to decide firmly that you will do something, no matter what', 'sentence': 'Mira was determined to find out what happened to the brown bird.'}],
     parentTips: "This story gently introduces the concept of loss and grief — something children this age often encounter for the first time with pets, grandparents, or even wildlife. Use it as a starting point to talk about a time your child experienced something being 'gone.' The story also models healthy grief: crying, asking questions, and eventually finding hope. Remind your child: it's okay to miss things and people, and it's okay to cry.",
-    printables: [{'title': 'Color Mira and the Brown Bird', 'type': 'coloring', 'url': '/printables/mira-bird-coloring.pdf'}, {'title': 'Bird Footprint Mystery Clues', 'type': 'activity', 'url': '/printables/bird-mystery.pdf'}],
+    printables: [
+      { title: "Music Mystery Maze", type: "activity", url: "/printables/the-mystery-of-the-missing-song/maze.png" },
+      { title: "Connect: Musical Notes", type: "activity", url: "/printables/the-mystery-of-the-missing-song/dot2dot.png" },
+      { title: "Word Hunt: Songs & Music", type: "activity", url: "/printables/the-mystery-of-the-missing-song/wordsearch.png" },
+    ],
     songs: [{'title': 'The Missing Song Melody', 'lyrics': 'Tweet-tweet-tee-ooo, tweet-tweet-tee-ooo! / The song is gone, but love stays true! / When one bird stops, another starts, / And love finds new wings and new hearts!'}],
   },
 ,
@@ -729,7 +754,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ["Why did Eli and Pip's fathers tell them the other side was bad?", 'When Eli ran to help, he went against what he was taught. What gave him the courage to do that?', 'What do you think the rhyme about Eastons and Westfalls was really about?', 'Has there ever been a time when you judged someone before you really knew them? What happened?'],
     vocabulary: [{'word': 'prejudice', 'definition': 'a judgment you make about a group of people before you actually know them — usually a negative one', 'sentence': 'The children had prejudice against each other even though they had never actually met.'}, {'word': 'courage', 'definition': "doing the right thing even when it's hard, even when it goes against what everyone around you believes", 'sentence': 'It took courage for Eli to help Pip, even though he had been taught not to trust Westfalls.'}, {'word': 'rival', 'definition': 'someone you compete with or feel competitive toward — sometimes unfairly', 'sentence': 'The Eastons and Westfalls had been rivals for a hundred years without really knowing why.'}],
     parentTips: "This story introduces prejudice and group identity in a way children this age can grapple with. Ask: 'Where do we learn who to like and who to not like?' Talk about how sometimes the rules we grow up with don't match what we see with our own eyes. Use it as a starting point for conversations about fairness, first impressions, and the difference between what we're told and what we experience.",
-    printables: [{'title': 'Color Eli and Pip on the Bridge', 'type': 'coloring', 'url': '/printables/eli-pip-bridge-coloring.pdf'}, {'title': 'The River Rhyme Rewritten', 'type': 'activity', 'url': '/printables/rewrite-the-rhyme.pdf'}],
+    printables: [
+      { title: "River Crossing Maze", type: "activity", url: "/printables/the-wrong-side-of-the-river/maze.png" },
+      { title: "Trace: River Friends", type: "activity", url: "/printables/the-wrong-side-of-the-river/tracing.svg" },
+      { title: "Connect: River Journey", type: "activity", url: "/printables/the-wrong-side-of-the-river/dot2dot.png" },
+    ],
     songs: [{'title': 'The Bridge Song', 'lyrics': 'East side, west side, sitting by the stream! / All our years of fighting — was it just a dream? / Ropes and rain and puppies in the water below, / Teaching us that kindness is all we need to know!'}],
   },
 
@@ -747,7 +776,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ['Why was Luna scared to go into the forest at night?', 'What made Luna feel brave enough to try?', 'Have you ever been scared of something, but felt better when a friend was with you?', 'What do you think brave means?'],
     vocabulary: [{'word': 'whispered', 'definition': 'to speak very softly, so only someone nearby can hear', 'sentence': 'Luna whispered to herself about the beautiful stars.'}, {'word': 'twinkled', 'definition': 'to shine with a soft, flickering light', 'sentence': 'The stars twinkled like little flashlights in the sky.'}, {'word': 'peaceful', 'definition': 'calm and quiet, with no worry or fear', 'sentence': 'The forest was peaceful and magical under the moonlight.'}],
     parentTips: "After reading, ask: 'What was Luna scared of, and what helped her?' Talk about how having a friend can make scary things feel smaller. Ask your child if they've ever felt brave with help from someone they trust.",
-    printables: [{'title': 'Color Luna Under the Stars', 'type': 'coloring', 'url': '/printables/luna-stars-coloring.pdf'}, {'title': 'Moonbeam Maze', 'type': 'activity', 'url': '/printables/moonbeam-maze.pdf'}],
+    printables: [
+      { title: "Luna's Night Adventure Maze", type: "activity", url: "/printables/lunas-big-adventure/maze.png" },
+      { title: "Connect: Luna's Night Journey", type: "activity", url: "/printables/lunas-big-adventure/dot2dot.png" },
+      { title: "Word Hunt: Night Adventure", type: "activity", url: "/printables/lunas-big-adventure/wordsearch.png" },
+    ],
     songs: [{'title': 'The Brave Little Bunny Song', 'lyrics': "Hop, hop, little bunny, / Don't be scared of the dark! / The stars will light your way, / And leave a glow in your heart!"}],
   },
 
@@ -765,7 +798,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ['Why was Theo so scared to share his toys?', "What did the tree mean when it said 'the more you hold, the more alone you feel'?", 'What happened when Theo finally shared his robot with Maya?', 'Is there something you have a hard time sharing? Why?'],
     vocabulary: [{'word': 'clutch', 'definition': "to hold onto something very tightly because you're afraid of losing it", 'sentence': 'Theo would clutch his toys tightly and refuse to let anyone else play with them.'}, {'word': 'empties', 'definition': 'to feel like something is missing inside — like a hole that gets bigger', 'sentence': 'Theo realized that holding on so tightly actually made him feel more empty inside.'}, {'word': 'fortress', 'definition': 'a very strong building that is hard to get into — like a castle', 'sentence': 'Maya built a robot fortress that was the coolest thing Theo had ever seen.'}],
     parentTips: "This story works well for children who struggle with sharing or possessiveness. Talk about WHY sharing feels hard (fear of losing the item). Ask: 'When you share something, what do you usually get back?' Focus on the emotional reward of connection.",
-    printables: [{'title': 'Color Theo and the Great Tree', 'type': 'coloring', 'url': '/printables/talking-tree-coloring.pdf'}, {'title': 'Design Your Own Tree House', 'type': 'activity', 'url': '/printables/tree-house-design.pdf'}],
+    printables: [
+      { title: "Trace: The Talking Tree", type: "activity", url: "/printables/the-talking-tree/tracing.svg" },
+      { title: "Tree Maze: Root Adventure", type: "activity", url: "/printables/the-talking-tree/maze.png" },
+      { title: "Word Hunt: Trees & Nature", type: "activity", url: "/printables/the-talking-tree/wordsearch.png" },
+    ],
     songs: [{'title': 'The Sharing Tree Song', 'lyrics': 'I hold on tight, but it makes me feel small! / I share with you, and I feel ten feet tall! / The more I give, the more I grow, / Kindness is the best thing I know!'}],
   },
 
@@ -783,7 +820,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ['Do you think Maren was right to keep the truth about the treasure from Corin? Why or why not?', "Was Corin's obsession ever justified? At what point did his pursuit become harmful?", 'The story ends with Corin rebuilding but with permanent losses. Is that a fair ending?', "What is the 'real treasure' in the story — and do you agree that honest work is its own reward?"],
     vocabulary: [{'word': 'integrity', 'definition': 'doing the right thing even when no one is watching', 'sentence': "Corin's integrity crumbled when he started deceiving customers to fund his search."}, {'word': 'obsessed', 'definition': "thinking about something so much that you can't think about anything else", 'sentence': 'Corin was so obsessed with the treasure that he stopped seeing what mattered.'}, {'word': 'bankruptcy', 'definition': 'when a person has lost so much money they cannot pay their debts', 'sentence': 'Corin had to declare bankruptcy after destroying his business for an empty box.'}],
     parentTips: "This story is for older children (8-10) who can grapple with moral complexity. Corin is neither purely good nor evil — he makes choices that compound into disaster. Discuss: 'At what point could Corin have made a different choice?' The story raises uncomfortable questions about whether good people can make catastrophic mistakes — and whether those mistakes can ever be fully repaired.",
-    printables: [{'title': 'Color the Empty Treasure Box', 'type': 'coloring', 'url': '/printables/empty-box-coloring.pdf'}, {'title': 'Design Your Own Treasure Map', 'type': 'activity', 'url': '/printables/treasure-map-design.pdf'}],
+    printables: [
+      { title: "The Empty Box Maze", type: "activity", url: "/printables/the-merchants-empty-box/maze.png" },
+      { title: "Connect: Merchant's Journey", type: "activity", url: "/printables/the-merchants-empty-box/dot2dot.png" },
+      { title: "Word Hunt: Hidden Treasures", type: "activity", url: "/printables/the-merchants-empty-box/wordsearch.png" },
+    ],
     songs: [{'title': 'The Empty Box Song', 'lyrics': "I searched for gold in the earth and the stone, / But the real treasure was the love I'd already known! / I chased and I chased and I lost my way, / Now I know that the gold was the people who stay!"}],
   },
 
@@ -801,7 +842,11 @@ And so our adventure comes to an end. But every end is just another beginning! U
     discussionQuestions: ['Sasha hid her grief to protect her parents. Was that the right thing to do? Who was it really protecting?', 'Grandma said grief is a room you go into. What do you think about that metaphor?', "The story doesn't resolve the divorce — Sasha still has two houses and an ache. Is that a satisfying ending? Why or why not?", "Is being 'real' in both places actually possible? What would Sasha have to sacrifice to do that?"],
     vocabulary: [{'word': 'divorce', 'definition': 'when two people who are married decide to live apart permanently', 'sentence': "Sasha's parents' divorce meant she suddenly had two homes instead of one."}, {'word': 'authenticity', 'definition': "being your real, honest self — not pretending to be someone you're not", 'sentence': "Sasha's authenticity grew when she stopped pretending to be fine all the time."}, {'word': 'compartmentalize', 'definition': 'to keep different parts of your life completely separate', 'sentence': "Sasha had been compartmentalizing her life, acting one way at Dad's and another at Mom's."}],
     parentTips: "This story is for older children ready to grapple with emotionally complex situations. Divorce and the pressure to 'be okay' are real. The story validates that it's normal to feel grief and anger about family changes — and that hiding those feelings doesn't make them go away. Use it as a starting point for honest conversation. Ask: 'What do you wish you could tell me about how our family is doing?'",
-    printables: [{'title': 'Color the Two Houses', 'type': 'coloring', 'url': '/printables/two-houses-coloring.pdf'}, {'title': 'Draw Your Life in Two Pictures', 'type': 'activity', 'url': '/printables/my-two-homes.pdf'}],
+    printables: [
+      { title: "Trace: Two Houses", type: "activity", url: "/printables/two-houses-one-heart/tracing.svg" },
+      { title: "Connect: Hearts Together", type: "activity", url: "/printables/two-houses-one-heart/dot2dot.png" },
+      { title: "Word Hunt: Kindness", type: "activity", url: "/printables/two-houses-one-heart/wordsearch.png" },
+    ],
     songs: [{'title': 'Two Houses Lullaby', 'lyrics': "Two houses, one heart, / Trying so hard to belong. / I'm learning that love doesn't mean / Pretending nothing's wrong. / Two houses, one heart, / And the truth will set me free. / I don't have to be okay — / Just honest, just real, just me."}],
   },
 ] as Story[]

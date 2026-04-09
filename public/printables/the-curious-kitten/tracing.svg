@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="480" viewBox="0 0 420 480">
+  <rect width="420" height="480" fill="#FFF8F5"/>
+  <rect x="20" y="15" width="380" height="44" rx="12" fill="#FFF0E8"/>
+  <text x="210" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#B8683C">Trace: The Curious Kitten</text>
+  <path d="M 200 50 Q 240 110 240 160 L 260 160 L 260 240 Q 290 280 200 260 Q 110 280 140 240 L 140 160 L 160 160 Q 160 110 200 50 Z" fill="none" stroke="#C8A07A" stroke-width="3" stroke-dasharray="8,4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#8B7355">Trace the dotted line! ✏️</text>
+</svg>

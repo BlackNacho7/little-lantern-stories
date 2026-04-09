@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="480" viewBox="0 0 420 480">
+  <rect width="420" height="480" fill="#FFF8F5"/>
+  <rect x="20" y="15" width="380" height="44" rx="12" fill="#FFF0E8"/>
+  <text x="210" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#B8683C">Trace: A Home for Millie</text>
+  <path d="M 200 60 L 245 140 L 220 140 L 260 220 L 235 220 L 275 310 L 125 310 L 165 220 L 140 220 L 180 140 L 155 140 Z" fill="none" stroke="#C8A07A" stroke-width="3" stroke-dasharray="8,4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="210" y="460" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#8B7355">Trace the dotted line! ✏️</text>
+</svg>

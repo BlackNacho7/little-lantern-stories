@@ -3,6 +3,7 @@ import Image from "next/image";
 import Navigation from "@/app/components/Navigation";
 import Footer from "@/app/components/Footer";
 import AudioPlayer from "@/app/components/AudioPlayer";
+import SongPlayer from "@/app/components/SongPlayer";
 import PrintableCard from "@/app/components/PrintableCard";
 import VocabularyList from "@/app/components/VocabularyList";
 import DiscussionQuestions from "@/app/components/DiscussionQuestions";
@@ -188,7 +189,7 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
             </div>
           </article>
 
-          {/* Related Songs */}
+          {/* Songs */}
           {story.songs && story.songs.length > 0 && (
             <section className="mb-10 animate-fade-up">
               <h2 className="font-heading text-xl font-bold text-textPrimary dark:text-dark-textPrimary mb-4 flex items-center gap-2">
@@ -197,10 +198,11 @@ export default async function StoryPage({ params }: { params: Promise<{ slug: st
               </h2>
               <div className="space-y-4">
                 {story.songs.map((song, i) => (
-                  <div key={i} className="bg-secondary/5 dark:bg-secondary/10 rounded-xl p-5">
-                    <p className="font-semibold text-textPrimary dark:text-dark-textPrimary mb-2">{song.title}</p>
-                    <p className="text-sm italic text-textSecondary dark:text-dark-textSecondary leading-relaxed">{song.lyrics}</p>
-                  </div>
+                  <SongPlayer
+                    key={i}
+                    title={song.title}
+                    audioUrl={`/audio/${story.slug}.mp3`}
+                  />
                 ))}
               </div>
             </section>

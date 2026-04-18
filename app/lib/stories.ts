@@ -792,7 +792,7 @@ And Millie learned something very important: sometimes the right place is waitin
     coverImage: "/images/two-houses-one-heart.webp",
     ageRange: "8-10",
     level: 5,
-    themes: ['loss', 'grief', 'emotions'],
+    themes: ['family', 'emotions', 'identity', 'resilience'],
     extraTags: ['Adventure', 'Emotional Learning'],
     readTime: "18 min",
     description: "After her parents divorce, twelve-year-old Sasha must live two lives. A summer with her grandmother forces her to finally confront the grief she's been hiding — and ask: is it possible to belong fully to two places at once?",
